@@ -1,0 +1,6 @@
+﻿link do curso:
+https://www.youtube.com/watch?v=EyLtPcaCm4s
+
+
+link online do sqlite:
+https://sqliteonline.com/
